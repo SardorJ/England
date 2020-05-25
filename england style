@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#England{
+    height: 100%;
+    width: 100%;
+}
+
+#England img{
+    height: 100%;
+    width: 100%;
+}
+
+#Hälsa{
+    height: 100%;
+    width: 100%;
+}
+
+.info-hälsa{
+        height: 50%;
+        width: 50%;
+        float: left;
+}
+
+#Hälsa p{
+    font-size: ;
+    text-align: center;
+}
+
+#BJ{
+    height: 100%;
+    width: 100%;
+}
+
+#BJ img{
+    height: 100%;
+    width: 100%;
+}
+
+#Tour{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.Place{
+    height: 100%;
+    width: 25%;
+}
+
+.Place p, h5{
+    text-align: center;
+}
+
+.Place img{
+    height: 100%;
+    width: 25%;
+}
+
+#Food{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.Place p, h5{
+    text-align: center;
+}
+
+.Place img{
+    height: 100%;
+    width: 50%;
+}
